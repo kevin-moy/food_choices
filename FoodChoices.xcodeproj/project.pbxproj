@@ -21,7 +21,6 @@
 		470DD932198B47CE00CD13B6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 470DD914198B47CE00CD13B6 /* UIKit.framework */; };
 		470DD93A198B47CE00CD13B6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 470DD938198B47CE00CD13B6 /* InfoPlist.strings */; };
 		470DD93C198B47CE00CD13B6 /* FoodChoicesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 470DD93B198B47CE00CD13B6 /* FoodChoicesTests.m */; };
-		470DD946198B491300CD13B6 /* globes.png in Resources */ = {isa = PBXBuildFile; fileRef = 470DD945198B491300CD13B6 /* globes.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,7 +53,6 @@
 		470DD937198B47CE00CD13B6 /* FoodChoicesTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FoodChoicesTests-Info.plist"; sourceTree = "<group>"; };
 		470DD939198B47CE00CD13B6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		470DD93B198B47CE00CD13B6 /* FoodChoicesTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FoodChoicesTests.m; sourceTree = "<group>"; };
-		470DD945198B491300CD13B6 /* globes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = globes.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,7 +117,6 @@
 				470DD922198B47CE00CD13B6 /* Main.storyboard */,
 				470DD925198B47CE00CD13B6 /* ViewController.h */,
 				470DD926198B47CE00CD13B6 /* ViewController.m */,
-				470DD945198B491300CD13B6 /* globes.png */,
 				470DD928198B47CE00CD13B6 /* Images.xcassets */,
 				470DD917198B47CE00CD13B6 /* Supporting Files */,
 			);
@@ -232,7 +229,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				470DD929198B47CE00CD13B6 /* Images.xcassets in Resources */,
-				470DD946198B491300CD13B6 /* globes.png in Resources */,
 				470DD91B198B47CE00CD13B6 /* InfoPlist.strings in Resources */,
 				470DD924198B47CE00CD13B6 /* Main.storyboard in Resources */,
 			);
